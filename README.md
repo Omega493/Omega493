@@ -31,9 +31,3 @@ I'm a Computer Engineering student with a deep interest in systems programming, 
 - Built using discord.js.
 - Features include: moderation tools, command handling, and message logging.
 - The bot can be found [here](https://github.com/Omega493/Alpha).
-
-## Community Experience
-
-- Moderator on a Discord server with over 8000 members.  
-- Assist in event planning, bug testing, and development discussions.
-- Collaborate with the bot developer as one of the programmers on the team.
